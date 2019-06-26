@@ -297,7 +297,7 @@ footer {
     display: none;
 }
 
-@media screen and (min-width: 321px) {
+@media screen and (min-width: 768px) {
 
     /* ------------------------
     DOCUMENT STYLES 
@@ -528,7 +528,7 @@ footer {
     }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1024px) {
 
     /* ------------------------
     HEADER STYLES 
